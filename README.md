@@ -25,10 +25,10 @@ Expected output:
 ```
 Paste API Key here:
 Found 171 users. Checking...
-veracrypt (https://mastodon.social/@veracrypt) seems to inactive
+veracrypt (https://mastodon.social/@veracrypt) seems to be inactive
 ...
-fsf (https://status.fsf.org/fsf) seems to inactive
-gnome (https://quitter.no/gnome) seems to inactive
+fsf (https://status.fsf.org/fsf) seems to be inactive
+gnome (https://quitter.no/gnome) seems to be inactive
 38 of them seem to be inactive for at least 180 days
 ```
 

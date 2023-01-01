@@ -111,7 +111,7 @@ fn main() {
             if user.is_active(*days) {
                 return 0;
             } else {
-                println!("{} ({}) seems to inactive", user.username, user.url);
+                println!("{} ({}) seems to be inactive", user.username, user.url);
                 return 1;
             }
         })
